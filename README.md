@@ -1,5 +1,5 @@
 # Himalia
-Repository for the Water Wise prototype, developed in the Nasa Space Apps Challenge 2024.
+Repository for the Water Wise concept, developed by the Himalia Team in the Nasa Space Apps Challenge 2024.
 
 ## Overview
 
